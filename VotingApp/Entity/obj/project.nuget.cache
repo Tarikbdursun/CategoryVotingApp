@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqu9fsexquklzcfo0+GDxdQJaIVNHNk7TColMSA7+4PnqlNoGPDbvcHtvl27OSaS75Nz1OCp1tMIYoxDTIzK6A==",
+  "dgSpecHash": "2H/LLzpJ40/mE8ZuPBBKn2aHTHwUiNfH/jUPP0NyTb8qWwgWbdqfPnBN9MWsmWadSQVjSFlp98sVQ5o0qJX5Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\Entity\\Entity.csproj",
+  "projectFilePath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxjbqewL5or7haZilutuCzabp3Hl16NDSMaMtIBW5RA7HZk4WOIFATxqW8JAgbpNTkv2VZOxj6mwpLjHA57y2g==",
+  "dgSpecHash": "MJcAJfpaEzFkOR7rQ8TCxKU4sJXCwOk47nchqOgDN6M95OUd5Q+q2eMF0DjjgaUylOXoGDSODLDqvkBJgCq1jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\UiLayer\\UiLayer.csproj",
+  "projectFilePath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\UiLayer\\UiLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Tarık Buğra\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.11\\microsoft.entityframeworkcore.2.1.11.nupkg.sha512",

@@ -3648,11 +3648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Tarık Buğra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\DataAccess\\obj\\",
+      "outputPath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarık Buğra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3669,11 +3669,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\Core\\Core.csproj"
+            "D:\\GitHub\\CategoryVotingApp\\VotingApp\\Core\\Core.csproj": {
+              "projectPath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\Core\\Core.csproj"
             },
-            "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\Tarık Buğra\\source\\repos\\VotingApp\\Entity\\Entity.csproj"
+            "D:\\GitHub\\CategoryVotingApp\\VotingApp\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\GitHub\\CategoryVotingApp\\VotingApp\\Entity\\Entity.csproj"
             }
           }
         }
